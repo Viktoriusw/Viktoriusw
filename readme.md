@@ -91,17 +91,6 @@ class VicRos:
 
 <div align="center">
 
-<!-- Para activar esta animación, añade el GitHub Action correspondiente en tu repo -->
-<img src="https://raw.githubusercontent.com/Viktoriusw/Viktoriusw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-> 💡 *Para activar la serpiente: crea el repo `Viktoriusw/Viktoriusw` y añade el [GitHub Action de la snake](https://github.com/Platane/snk)*
-
-</div>
-
----
-
-<div align="center">
-
 <!-- Activity graph -->
 [![Vic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viktoriusw&theme=tokyo-night&bg_color=0D1117&color=D4A574&line=D4A574&point=FF6B35&hide_border=true)](https://github.com/Viktoriusw)
 
