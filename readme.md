@@ -50,6 +50,8 @@ Tools       Git · Linux · REST APIs
 ---
 
 ## Projects
+**[scrapelio-browser](https://github.com/Viktoriusw/scrapelio-browser)**
+Lightweight web browser with plugin system, AI integrated in navigation and focus on privacy.
 
 **[scrapelillo](https://github.com/Viktoriusw/scrapelillo)**
 Advanced web scraping tool built to handle the challenges of modern websites — dynamic content, JavaScript rendering, and anti-bot protections.
